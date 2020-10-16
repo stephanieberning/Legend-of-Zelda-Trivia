@@ -6,6 +6,11 @@ public class Game {
     private static final ArrayList<Question> QUESTIONS = new ArrayList<>();
     private static final ArrayList<String> CORRECT_QUESTIONS = new ArrayList<>();
 
+    public static void main(String[] args) {
+        init();
+        loop();
+    }
+
     private static void init(){
         try {
             List<String> lines = Files.readAllLines(Paths.get("data.txt"));
@@ -38,7 +43,7 @@ public class Game {
 
             System.out.print("Answer: ");
 
-            // We are adding to the array index for visual
+            // adding to the array index for visual
             // Need to subtract 1 from which ever number the user selects for the proper index
             int input = scan.nextInt() - 1;
 
@@ -59,13 +64,7 @@ public class Game {
             }
 
         }
-
-        System.out.println("You got " + CORRECT_QUESTIONS.size() + " right out of 18.");
-    }
-
-    public static void main(String[] args) {
-        init();
-        loop();
+        System.out.println("You got " + CORRECT_QUESTIONS.size() + " right out of 25.");
     }
 
 }

@@ -28,7 +28,13 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\Desktop\Side Project ON GitHub\Legend-of-Zelda-Trivia" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -46,32 +52,41 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="WindowStateProjectService">
-    <state width="1237" height="372" key="GridCell.Tab.0.bottom" timestamp="1602730216754">
+    <state width="1237" height="371" key="GridCell.Tab.0.bottom" timestamp="1602809382704">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="372" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602730216754" />
-    <state width="1237" height="372" key="GridCell.Tab.0.center" timestamp="1602730216754">
+    <state width="1877" height="619" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.3.1920.1040@1920.3.1920.1040" timestamp="1602794297180" />
+    <state width="1237" height="371" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602809382704" />
+    <state width="1237" height="371" key="GridCell.Tab.0.center" timestamp="1602809382704">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="372" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602730216754" />
-    <state width="1237" height="372" key="GridCell.Tab.0.left" timestamp="1602730216754">
+    <state width="1877" height="619" key="GridCell.Tab.0.center/0.0.1280.680/1920.3.1920.1040@1920.3.1920.1040" timestamp="1602794297180" />
+    <state width="1237" height="371" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602809382704" />
+    <state width="1237" height="371" key="GridCell.Tab.0.left" timestamp="1602809382704">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="372" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602730216754" />
-    <state width="1237" height="372" key="GridCell.Tab.0.right" timestamp="1602730216754">
+    <state width="1877" height="619" key="GridCell.Tab.0.left/0.0.1280.680/1920.3.1920.1040@1920.3.1920.1040" timestamp="1602794297179" />
+    <state width="1237" height="371" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602809382704" />
+    <state width="1237" height="371" key="GridCell.Tab.0.right" timestamp="1602809382704">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="372" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602730216754" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Game.java</url>
-          <line>62</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1877" height="619" key="GridCell.Tab.0.right/0.0.1280.680/1920.3.1920.1040@1920.3.1920.1040" timestamp="1602794297180" />
+    <state width="1237" height="371" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602809382704" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1602731786105">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602731786105" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1602731786105">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1602731786105" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1602731786105">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1602731786105" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1602731786105">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1602731786105" />
   </component>
 </project>
